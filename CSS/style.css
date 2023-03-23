@@ -3,6 +3,10 @@
   margin: 0;
   padding: 0; }
 
+  header #left #top{
+    display: none;
+}
+
 input {
   border: none; }
 
